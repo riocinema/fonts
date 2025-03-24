@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Hypertext Mono Light';
+    src: url('https://raw.githubusercontent.com/riocinema/fonts/main/00HypertextMonoDisplay-Light.woff') format('woff');
+  }
+  
+  @font-face {
+    font-family: 'Hypertext Mono Medium';
+    src: url('https://raw.githubusercontent.com/riocinema/fonts/main/00HypertextMonoDisplay-Medium.woff') format('woff');
+  }
+  
+  @font-face {
+    font-family: 'URW Gothic Demi';
+    src: url('https://raw.githubusercontent.com/riocinema/fonts/main/URWGothic-Demi.woff') format('woff');
+  }
+  
